@@ -13,6 +13,5 @@ public class A{
         double area= Math.sqrt(k);
     
        System.out.printf("%.2f",area);
-
 }
 }
